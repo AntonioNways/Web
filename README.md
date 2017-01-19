@@ -1,4 +1,8 @@
 # Web
-All my web projects are posted here
+All my web projects are posted here (usually, a link to Codepen)
 
-git remote add origin https://github.com/AntonioNways/Web.git
+
+
+If you are interested in checking me out at CodePen, please visit: https://codepen.io/SilverAnt/#
+
+Thank you!
